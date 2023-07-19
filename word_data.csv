@@ -1,0 +1,352 @@
+Serial,Word,Meaning,Study_score
+1,Abate,"Subside, Moderate",0
+2,Banal,"Commonplace, hackneyed",0
+3,Cacophonous,Discordient,0
+4,Daunt,Frighten,0
+5,Ebullient,Showing excitement,0
+6,Aberrant,Abnormal,0
+7,Belie,False Impression,0
+8,Capricious,Unpredictable,0
+9,Decorum,Good teste in manner,0
+10,Eclective,Selective,0
+11,Facetious,Joking,0
+12,Gainsay,Deny,0
+13,Harangue,Long passionate speech,0
+14,Iconoclastic,Attacking good tradition,0
+15,Laconic,Brief and to the point,0
+16,Facilitate,Bring help,0
+17,Garrulous,Talkative,0
+18,Homogenuous,of the same kind,1
+19,Idolatry,Worship of idle,2
+20,Lassitude,Fragile,0
+21,Magnanimity,Generosity,0
+22,Nagate,cancel out,0
+23,Obdurate,Stubborn,0
+24,Paragon,Model of perfection,0
+25,Qualified,Restricted,0
+26,Rarefied,make less dense,0
+27,Malingerer,one who fake illness to escape duty,0
+28,Neophyte,Beginner,0
+29,Obsequious,Slavishy attentive,1
+30,Partisan,One sided,0
+31,Quibble,Minor objection,0
+32,Recalcitrent,too stuborn,0
+33,Sage,wise,0
+34,Tacit,understood but not put into word,0
+35,Vacillate,fluctuate,0
+36,Quiesent,Dorment,0
+37,Recant,"Disclaim, Disvow, Deny",0
+38,Salubrious,helthful,0
+39,Tangential,Peripheral,0
+40,Venerate,respect,1
+41,Warrented,Justified,1
+42,Abeyance,suspended action,0
+43,Beneficent,"kindly, doing good",0
+44,Castigation,severe criticism,0
+45,Default,failure to act,2
+46,Wary,very cautious,0
+47,Abscond,depart secretly,0
+48,Bolster,support,0
+49,Catalyst,agent that helps in the reaction but do not change itself,0
+50,Deference,Polite submission or respect (In deference To),0
+51,Efficacy,power to produce desire effect,0
+52,Fallacious,FALSE,0
+53,Goad,urge on,0
+54,Hyperbole,exaggeration,1
+55,Immutable,unchangable,0
+56,Effrontery,insolent boldness,0
+57,Fatuous,fool,0
+58,Gouge,overcharged,0
+59,Impair,injured,0
+60,Latent,potential and undeveloped,0
+61,Laud,Praise,1
+62,Malleable,flexible,0
+63,Obviate,"eliminate, extrude",1
+64,Pathological,"Emotional, Mushy",0
+65,Recluse,loner,0
+66,Lathergic,lazy,0
+67,Maveric,loofer,0
+68,Occlude,"shut, closed",0
+69,Paucity,"scarcity, lack",0
+70,Recondite,dificult to understand,0
+71,Sanction,"Approve, permission",0
+72,Tenuous,"thin, rare, slim",0
+73,Veracious,"truthful, honest",0
+74,Welter,"turmoil, roll",0
+75,Abstemious,spating in eating and drinking,0
+76,Satiate,satisfy fully,0
+77,Tirade,harangue,0
+78,Verbose,"talkative, wordy",0
+79,Whimsical,"capricious, unpredictable, abnormal",1
+80,Admonish,warn,0
+81,Bombastic,pompous,0
+82,Caustic,"Burning, sarcustically beating",0
+83,Delineate,sketch,1
+84,Elegy,song of lementation,0
+85,Fawning,"obsequous, excessive fonding",0
+86,Boorish,rude,0
+87,Chicanery,"trickery, deception",0
+88,Denigrate,"belittle, defame",0
+89,Elicit,draw out by discussion,0
+90,Felicitous,"suitably expressed, well choosen",0
+91,Gregarious,Sociable,0
+92,Vindicate,Free from blame,1
+93,Amalgam,Mixture of different things,0
+94,Ingenuous,innocent,0
+95,Restive,restless,0
+96,Amorphous,shapeless,0
+97,Undermine,to weaken,0
+98,Equivocal,"lie, confusing",0
+99,Qualify,"to make less severe, to limit",0
+100,Ambivalent,mixed and conflicting emotion,0
+101,Grandiloquent,pompous,0
+102,Impassive,without feelings,0
+103,levee,stone protected wall,0
+104,Mendacious,"lying, habitually dishonest",0
+105,Officious,Pushy in offering help,0
+106,Guileless,without deceit,0
+107,Impede,hinder,1
+108,levity,lack of seriousness,0
+109,Metamorphous,change of shape,0
+110,Onerous,burdensome,0
+111,Pedantic,"showing of learning, bookish",1
+112,Refractory,stubborn,1
+113,Satuarate,soak throughly,0
+114,torpor,lathergic,0
+115,Viable,"Practical, workable",0
+116,Penchant,strong inclination,0
+117,Refute,disprove,0
+118,Savor,enjoy,0
+119,Tortous,"winding, full of curves",0
+120,Viscous,"Sticky, gluey",1
+121,Zealot,fanatic,0
+122,Adulterate,Impure things by mixing substances,0
+123,Burgeon,grow forth,0
+124,Coagulate,"congeal, thicken",0
+125,Deride,redicule,0
+126,Aesthetic,"artist, beauty, outer appearance",0
+127,Burnish,polish,0
+128,Buttress,support,0
+129,Coda,concluding section of an event,0
+130,Derivative,unorginal,0
+131,Aggregate,gather,0
+132,Alacrity,eagerness,1
+133,Ambivalance,conflicting emotion,0
+134,Alleviate,relieve,0
+135,Amalgamate,"combine, unit",1
+136,Ambiguous,unpredictable,0
+137,Cogent,convincing,0
+138,Commensurate,proportionate,0
+139,Compendium,Brief,0
+140,Reviving,rise from the death,0
+141,Hibernation,temporary sleeping,0
+142,Ethos,theory,1
+143,Steeped,flooded,0
+144,Disperate,unequal,0
+145,Proprietory,owner,1
+146,Appropriation,take by force,0
+147,Temperance,moderation,1
+148,Notoriety,famous for bad quality,0
+149,Eminence,"height, fame for superiority",0
+150,Tumultuous,emotional,0
+151,Providential,accidental,0
+152,Illuminated,lighten,0
+153,Spanseness,"thinness, rarity",0
+154,Obscure,not clear or discovered,0
+155,Plausibility,Chance of occuring,0
+156,Superficial,shallow,0
+157,Eccentric,"capricious, unpredictable, abnormal",0
+158,Trifling,unimportant,0
+159,Disinterestedness,indifferent,0
+160,Disquiting,worrying,0
+161,Ruminate,thinking of past,0
+162,Prosaic,"traditional, Banal",1
+163,Aloof,"unconcerned, passionless",0
+164,Skittish,"restless, impatient",0
+165,Tranquil,"quiet, calm",0
+166,Vociferous,"wordy, loud",0
+167,Demagogue,Political leader who seek support by appealing to popular desire,0
+168,Malvolent,illwill,1
+169,Valour,"courage, bravery",0
+170,Devotion,"love, loyalty and enthausiasm for a person or activity",0
+171,Coerce,obtain something by force or thread,0
+172,Anomalous,abnormal,0
+173,Epitomize,summery,0
+174,Carucature,cartoon,0
+175,unfettered,limitless or not restricted,0
+176,consensus,general agreement,0
+177,ossify,turn into bone,0
+178,Streamline,make more efficient or effective,0
+179,Contravane,violate any order of law,0
+180,Acolyte,an assistant or follower,0
+181,Martinet,a person who demand complete obidience,0
+182,Ameliorate,improve,0
+183,Anachronism,misplaced in time,0
+184,Analogous,comparable,1
+185,Anachry,absence of governing body,1
+186,Anomalous,abnormal,1
+187,Antipathy,dislike,0
+188,Apathy,lack of caring,0
+189,Apprise,inform,0
+190,Appease,relief,0
+191,Approbation,approval,0
+192,Arduous,hard working,0
+193,Artless,open and honest,0
+194,Ascetic,practicing self denial,0
+195,Assiduas,deligent,0
+196,Assuage,"reduce, pacify",0
+197,Flamboyant,aggrandize,0
+198,Predicament,"situation, state",0
+199,Homestead,foundation,0
+200,Pathos,enthusiasm,0
+201,Abreast,"alongside, side by side",0
+202,Toiled,"work, labor",0
+203,heretofore,"before, previous",1
+204,Stint,"moderation, limit",0
+205,Articulating,pronouncing clearly,0
+206,Caprice,"impulse, addiction",0
+207,Ecstatic,delightful,0
+208,Stupor,"lazy, unconcious",0
+209,Poignant,"severe, acute",1
+210,Dogmatism,openionated,0
+211,Orthodoxy,conventional,0
+212,Modicum,small quantity of particular thing,0
+213,Demur,show reluctance,0
+214,Schism,"division, split, breach",0
+215,Syntactical,according to the syntax,0
+216,Sartorial,relating to tailoring,0
+217,Frivolous,not having any serious purpose,0
+218,Attenuate,make thin,0
+219,Audacious,"brave, bold",0
+220,Austere,severly simple and unornamented,1
+221,Autonomous,independent,0
+222,Aver,say confidently,0
+223,Complaisant,"trying to please, overly polite",1
+224,Compliant,"Yielding, follow the order",0
+225,Conciliatory,"Reconciling, friendly",0
+226,Condone,"overlook, forgive",0
+227,Confound,"confuse, puzzle",0
+228,Connoisseur,lover of art,0
+229,Contention,"claim, quarrel",1
+230,Contentious,quarrelsome,0
+231,Contrite,penitent,0
+232,Conundrum,riddle,0
+233,Converge,"tend to meet, come together",0
+234,Convoluted,"coiled around, involved",0
+235,Craven,cowardly,0
+236,Desiccate,dry up,0
+237,Desultory,aimless,0
+238,Manifests,"obvious, evident",0
+239,Strenuous,"arduous, tough",0
+240,Deterrent,something that discourage,0
+241,Diatribe,bitter scolding,0
+242,Dechotomy,branching into two parts,0
+243,Diffidence,shyness,0
+244,Diffuse,"wordy, loud",0
+245,Digression,wandering away from the subject,0
+246,Dirge,lament with music,0
+247,Disabuse,correct the false impression,0
+248,Discerning,mentally quick and observant,0
+249,Discordant,not hermonic,0
+250,Discredit,defame,0
+251,Discrepancy,lack of consistancy,0
+252,Discrete,separate,0
+253,Disingenuous,Insincere,0
+254,Disinterested,Unprejudiced,1
+255,Disjoint,separated at the joint,0
+256,Dismiss,reject,0
+257,Disparage,"belittle, defame",1
+258,Disparate,Basically different,0
+259,Dissemble,pretend,0
+260,Disseminate,spread,0
+261,Dissolution,termination,0
+262,Dissonance,discordant,0
+263,Distend,expand,0
+264,Distill,purify,0
+265,Diverge,vary,0
+266,Divest,deprive,1
+267,Document,written prove,0
+268,Dogmatic,opinionated,0
+269,Dormant,sleeping,0
+270,Dupe,someone easily fooled,0
+271,adroit,"having or showing skill, cleverness",0
+272,rationalize,to bring into accord with reason and cause,0
+273,echelon,"grade, rank, position",0
+274,substantive,involving matter of major or practical importance to all concerned,0
+275,ample,generous or more than adequate in size,0
+276,purport,"intend, purpose",1
+277,skeptical,"doubtful, dubious",1
+278,rescind,"cancel, revoke",0
+279,albatross,source of frustration and guilt,0
+280,wherewithal,money needed for a reason,0
+281,prerogative,"right, advantage",0
+282,idiosyncratic,"peculiar, individual",0
+283,gimmick,mechanical device,1
+284,zoonotic,an infactious diseses caused by a pathogen,0
+285,incapacitate,prevent from functioning in normal way,0
+286,stringent,"strict, precise and exacting",1
+287,desiccation,remove the moisture and make completely dry,0
+288,Despoil,"Steal or violently remove valuable possessions from, Rob",0
+289,Verdant,Green with grass,0
+290,Rigour,"Throughness, diligent",0
+291,Detrimental,Causing harm,0
+292,Antithetical,"Directly opposed or contrasted, mutually incompatible",1
+293,Ideosyncratic,"Distinctive, Individual, Peculiar",0
+294,Ataraxia,Calmness or peace of mind,0
+295,Dolor,State of great sorrow,0
+296,Herald,To announce or tell publicly,0
+297,Alphabet,Set of letters with which a language is written,1
+298,Ancestor,Person from whome one is descended,0
+299,Anonimity,Quality or state of being unknown,0
+300,Bucolic,Relating to the rustic and pleasant aspect of the country,0
+301,Capriol,Playful leap,0
+302,Caterwaul,To scream or make a harsh cry,1
+303,Excavate,To dig a large hole,0
+304,Incongruous,Not agreeing with what is expected or usual,1
+305,Menacing,Threatening or suggesting danger,0
+306,Acuman,Ability to use reason to make good decision,0
+307,Dexterous,Skillful in physical movement,0
+308,Downcast,Filled with melancholy,0
+309,Irreverent,Showing lack of due respect,0
+310,Panache,Distinctive and stylish elegence,0
+311,grimy,"dirty, soiled ",0
+312,Omnipotent ,Having unlimited or infinite power,0
+313,Ruminate,To think deeply or carefully ,0
+314,Scrupulous ,Characterised by extreme care and effort,0
+315,Triathlon ,"Contest involving swimming, running and cycling ",0
+316,Ordain,To establish or order by law,0
+317,Decree,To officially order or require,0
+318,Decay,"Perish, Decompose",0
+319,Blandish,"Persuade with flattery, Cajole",0
+320,Petrify,To terrify or Frightened,0
+321,Evanescent,Passing out of sight or memories quickly ,0
+322,Eulogies,Praise formally and eloquently ,0
+323,Benevolent,Showing or motivate by sympathy and generosity,0
+324,Triumphant,Celebrating victory or success,0
+325,Grating,Sounding harsh and irritating,0
+326,Commiserate,To feel or express sympathy or compession,0
+327,Comminute,To pulverize or destroy,0
+328,Captivated,Filled with wonder and delight,0
+329,anoint ,choose by devine intervention,0
+330,coruscate,sparkle,0
+331,domestocate,to overcome the wildness ,0
+332,herbivore ,plant eater,0
+333,Parochial,Narrowly restricted in scope or outlook,0
+334,Frugal,Not spending much money but spending wisely,0
+335,Amenable,Easily persuaded,0
+336,Disinterested,Unbiased or neutral,0
+337,Enervate,To sap energy from,0
+338,Intimate,To suggest something Subtly,0
+339,Calumny,Making a false statement,0
+340,Chastise,To reprimend harshly,0
+341,Upbraid,"To scold, To reproach",0
+342,Galvanize,To excite or inspire to action,0
+343,Metastasize,"Spread, Strew",0
+344,Adjure,Beg,0
+345,Hearten,"Encourage, Enliven",0
+346,Dawdle,Delay,0
+347,Laughing Stock (P),Subject of redicule,0
+348,Edacious,Relating to eating,0
+349,Excursion,short journey or trip,0
+350,Noxious,Injurious to physical or mental health,0
+351,Stumble,To walk Unsteadily,0
